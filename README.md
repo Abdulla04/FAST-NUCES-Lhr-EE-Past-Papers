@@ -1,5 +1,5 @@
 ***FAST-NUCES Lahore — EE Past Papers***  
-A repository of past papers for Electrical Engineering students at FAST-NUCES Lahore, organised by course.
+A repository of past papers and resources for Electrical Engineering students at FAST-NUCES Lahore, organised by course.
 
 ***ADDITIONAL RESOURCES:***   
 Link 1: https://drive.google.com/drive/folders/1JkNbTtvIcn3w4_RJcunWd2nhHqDyuasB?usp=sharing  
