@@ -9,7 +9,7 @@ Link 4 (for CS): https://github.com/saleha-muzammil/Academic-Time-Machine
   
 If you wish to contribute (or report any discrepancies), email the scanned past papers in pdf format to l236002@lhr.nu.edu.pk from your NU email.  
   
-I am very new to github, will try to setup pull requests as soon as possible to make contributing easier.     
+I am very new to github, will try to setup fork and pull requests as soon as possible to make contributing easier.     
 
 This is currently a work in progress, I will also be adding other resources such as books and solution manuals soon, so this repository is subject to change in its structure.  
 
